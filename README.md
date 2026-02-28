@@ -1,0 +1,3 @@
+# colon-cancer
+Colon Cancer Image Classification
+This project features a high-performance Convolutional Neural Network (CNN) developed using TensorFlow and Keras to automate the classification of colon cancer histopathology images into five distinct categories. By implementing a custom architecture of convolutional and dense layers optimized with the Adamax algorithm, the model achieved a 98.3% Test Accuracy and a 98% F1-score without requiring data augmentation. The model's reliability is further demonstrated by its consistent 98% Precision and Recall across a test set of 2,500 images, showcasing its ability to extract robust features and maintain high diagnostic accuracy across various tissue types.
